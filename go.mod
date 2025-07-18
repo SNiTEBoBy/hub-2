@@ -1,6 +1,6 @@
 module github.com/artifacthub/hub
 
-go 1.17
+go 1.23.0
 
 require (
 	github.com/Masterminds/semver/v3 v3.1.1
@@ -44,7 +44,7 @@ require (
 	github.com/wagslane/go-password-validator v0.3.0
 	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
 	golang.org/x/image v0.0.0-20210628002857-a66eb6448b8d // indirect
-	golang.org/x/oauth2 v0.0.0-20210819190943-2bc19b11175f
+	golang.org/x/oauth2 v0.27.0
 	golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac
 	gonum.org/v1/netlib v0.0.0-20210927171344-7274ea1d1842 // indirect
 	google.golang.org/api v0.58.0
@@ -118,7 +118,7 @@ require (
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/google/btree v1.0.1 // indirect
-	github.com/google/go-cmp v0.5.6 // indirect
+	github.com/google/go-cmp v0.5.9 // indirect
 	github.com/google/go-querystring v1.0.0 // indirect
 	github.com/google/gofuzz v1.2.0 // indirect
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510 // indirect
